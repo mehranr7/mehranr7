@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mehranr7
+- 👀 I’m interested in .net And javascript
+- 🌱 I’m currently learning microservives
+- 💞️ I’m looking to collaborate on .net project
+- 📫 contact me : mr.mehran75@gmail.com
