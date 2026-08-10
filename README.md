@@ -43,7 +43,9 @@ I love building end-to-end solutions—from training AI models and data pipeline
 
 ### 🔥 Featured Projects
 
+* **[JobFinder](https://github.com/mehranr7/jobfinder)** — Self-hosted job-aggregation platform that scrapes German job portals (Playwright), scores listings against my CV with the Gemini API, and streams results live to a dark-themed UI via Server-Sent Events. Flask + SQLite backend, Jinja2/vanilla-JS frontend, fully Dockerized.
 * **[Anki Dictionary Automation (Gemini API)](https://github.com/mehranr7/AnkiDictionary)**: A robust CLI tool integrating LLMs to automate the generation and structuring of Anki flashcards from vocabulary data.
+* **[le-wm-fast-policy](https://github.com/mehranr7/le-wm-fast-policy)** — Lightweight Behavioral Cloning framework (PyTorch) training state-based and visual (ResNet) offline policies on the DeepMind Control Reacher environment, as a fast alternative to full generative world models.
 * **[Real-time Video Smile Detection (LeNet)](https://github.com/mehranr7/smile-detection-cnn)**: A computer vision pipeline utilizing a trained LeNet model to detect smiles frame-by-frame in real-time video streams.
 * **[IoT Cooler Controller (ESP32 & Cordova)](https://gitlab.com/MehranR7/iot_cooler)**: An end-to-end cross-platform IoT application connected to an ESP32 server to remotely control, schedule, and analyze consumption statistics for water-based cooling systems over Wi-Fi.
 * **[Diet Macro Tracker (Apache Cordova)](https://github.com/mehranr7/Diet-Macro-Tracker)**: A lightweight, client-side macro tracker with a Persian (RTL) UI, local storage persistence, and dynamic JSON database integration.
